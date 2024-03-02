@@ -1,4 +1,4 @@
-# Commands used in __Learning Linux Command Line__ from LinkedIn Learning
+# Commands used in __Learning Linux Command Line
 
 ## 01_01 - Creating a Linux virtual machine
 
